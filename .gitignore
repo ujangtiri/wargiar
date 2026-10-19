@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.glb
+*.fbx
+*.mp3
+.env
